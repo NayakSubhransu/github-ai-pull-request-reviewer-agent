@@ -35,6 +35,14 @@ Reviewing code manually can be slow, especially for catching small bugs, syntax 
 * **Database:** PostgreSQL (with Alembic for migrations)
 * **DevOps & Containers:** Docker, Kubernetes, Terraform
 
+## 🎯 What I'm Learning & Implementing 
+* [x] Designing decoupled event-driven microservices using **FastAPI** and **Celery**. 
+* [x] Architecting multi-step agentic graph workflows with **LangGraph** for large diff chunking. 
+* [x] Managing database schema migrations using **Alembic** and **PostgreSQL**. 
+* [ ] Implementing continuous feedback loops where reviewer memory adapts to repository-specific rules. 
+* [ ] Provisioning cloud infrastructure with **Terraform** and scaling workloads using Kubernetes **HPA**. 
+* [ ] Setting up **Prometheus & Grafana** pipelines to monitor worker queue depth and inference latencies. 
+
 ---
 
 ## 📂 Project Structure Overview
